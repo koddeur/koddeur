@@ -1,5 +1,3 @@
-![koddeur banner](https://github.com/user-attachments/assets/aecba653-f6bd-4403-b88f-66640d14c699)
-
 ## 💡 Who am I?
 - 🙋🏽‍♂️ I'm **Mael AVENNEC**
 - 👨‍💻 *Full Stack Developer*
