@@ -11,11 +11,13 @@
 - 📦 Tools: ![GitHub](https://img.shields.io/badge/-GitHub-black), ![VSCode](https://img.shields.io/badge/-VSCode-blue), ![JIRA](https://img.shields.io/badge/-JIRA-orange)
 
 ## 🛠️ Projects
+- **Kardd** (in progress)
 - **Koddeur**
 - **Noclaymer**
 - **Koaching**
-- **JS Games**
 - **Sushic**
+- **Rytuels**
+- **JS Games**
 - Others coming soon..
 
 ## ✉️ Reach Out
